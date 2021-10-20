@@ -17,7 +17,7 @@ The free plan is limited to 25 search request and 50 verification a month,  To e
 
 ## Installation
 
-To install via [Atmospherejs](https://atmospherejs.com/tombaio:tomba-meteor):
+To install via [Atmospherejs](https://atmospherejs.com/tombaio/tomba-meteor):
 
 ```bash
 meteor add tombaio:tomba-meteor
